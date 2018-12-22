@@ -13,4 +13,4 @@ Currently, there are no posts. Please check back later!
 
 # Subscribe
 
-If you like my blog, please send me an [email me](sidatsaha@gmail.com), and I'll you _only_ when I publish something new.
+If you like my blog, please send me an [email me](mailto:sidatsaha@gmail.com), and I'll you _only_ when I publish something new.
